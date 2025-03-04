@@ -10,14 +10,10 @@
 
 # Current projects:
 <p>
-● 🪐 NebulaMC - Minecraft HCF and BoxPvP Network. <br>
-| ɪᴘ: nebulamc.cc <br>
-| ᴅɪꜱᴄᴏʀᴅ: <a href="https://discord.nebulamc.cc"> https://discord.nebulamc.cc</a> <br>
-| ꜱᴛᴏʀᴇ: <a href="https://store.nebulamc.cc"> https://store.nebulamc.cc</a>
-</p>
-
-<p>
-● 🪐 Rift Development - Minecraft development studio. <br>
+● 🪐 CynicPvP - Minecraft HCF Network. <br>
+| ɪᴘ: cynicpvp.org <br>
+| ᴅɪꜱᴄᴏʀᴅ: <a href="https://discord.cynicpvp.org"> https://discord.cynicpvp.org</a> <br>
+| ꜱᴛᴏʀᴇ: <a href="https://store.cynicpvp.org"> https://store.cynicpvp.org</a>
 </p>
 
 # Information
