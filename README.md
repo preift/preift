@@ -10,10 +10,10 @@
 
 # Current projects:
 <p>
-● 🪐 CynicPvP - Minecraft HCF Network. <br>
-| ɪᴘ: cynicpvp.org <br>
-| ᴅɪꜱᴄᴏʀᴅ: <a href="https://discord.cynicpvp.org"> https://discord.cynicpvp.org</a> <br>
-| ꜱᴛᴏʀᴇ: <a href="https://store.cynicpvp.org"> https://store.cynicpvp.org</a>
+● 🪐 LacoCraft - Minecraft HCF Network. <br>
+| ɪᴘ: play.lacocraft.us <br>
+| ᴅɪꜱᴄᴏʀᴅ: <a href="https://discord.lacocraft.us"> https://discord.lacocraft.us</a> <br>
+| ꜱᴛᴏʀᴇ: <a href="https://tienda.lacocraft.us"> https://tienda.lacocraft.us</a>
 </p>
 
 # Information
