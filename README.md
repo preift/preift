@@ -10,10 +10,10 @@
 
 # Current projects:
 <p>
-● 🪐 LacoCraft - Minecraft HCF Network. <br>
-| ɪᴘ: play.lacocraft.us <br>
-| ᴅɪꜱᴄᴏʀᴅ: <a href="https://discord.lacocraft.us"> https://discord.lacocraft.us</a> <br>
-| ꜱᴛᴏʀᴇ: <a href="https://tienda.lacocraft.us"> https://tienda.lacocraft.us</a>
+● 🪐 KyronPvP - Minecraft HCF Network. <br>
+| ɪᴘ: kyronpvp.com <br>
+| ᴅɪꜱᴄᴏʀᴅ: <a href="https://discord.kyronpvp.com"> https://discord.kyronpvp.com</a> <br>
+| ꜱᴛᴏʀᴇ: <a href="https://store.kyronpvp.com"> https://store.kyronpvp.com</a>
 </p>
 
 # Information
